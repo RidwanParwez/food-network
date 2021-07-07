@@ -63,12 +63,12 @@ p{
 
     }
     #centre{
-        margin-left: 300px;
-        margin-right: 300px;
+        margin-left: 350px;
+        margin-right: 350px;
     }
     footer{
         text-align: center;
-        background-color: rgb(37, 36, 36);
+        background-color: rgb(2, 2, 2);
         color: white ;
         padding: 20px 20px 100px 20px;
     }
